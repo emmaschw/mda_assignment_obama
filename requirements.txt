@@ -23,6 +23,7 @@ Counter==1.0.0
 cryptography==37.0.1
 cycler==0.11.0
 cymem==2.0.6
+Cython==0.29.30
 datefinder==0.7.1
 DateTime==4.4
 debugpy==1.5.1
@@ -36,6 +37,7 @@ executing==0.8.2
 filelock==3.6.0
 fitz==0.0.1.dev2
 fonttools==4.29.1
+funcy==1.17
 future==0.18.2
 gensim==4.2.0
 glob2==0.7
@@ -81,6 +83,7 @@ nibabel==3.2.2
 nipype==1.7.1
 nltk==3.7
 notebook==6.4.8
+numexpr==2.8.1
 numpy==1.22.2
 openpyxl==3.0.9
 packaging==21.3
@@ -90,6 +93,7 @@ parso==0.8.3
 pathlib==1.0.1
 pathspec==0.9.0
 pathy==0.6.1
+patsy==0.5.2
 pdfminer.six==20220319
 pdfplumber==0.6.1
 pexpect==4.8.0
@@ -97,6 +101,7 @@ pickleshare==0.7.5
 Pillow==9.1.0
 pipdeptree==2.2.1
 platformdirs==2.5.0
+pmdarima==1.8.5
 preshed==3.0.6
 prometheus-client==0.13.1
 prompt-toolkit==3.0.28
@@ -108,6 +113,7 @@ pydantic==1.8.2
 pydot==1.4.2
 pyee==8.2.2
 Pygments==2.11.2
+pyLDAvis==3.3.1
 PyMuPDF==1.19.6
 pyparsing==3.0.7
 pyPdf==1.13
@@ -130,6 +136,7 @@ seaborn==0.11.2
 Send2Trash==1.8.0
 simplejson==3.17.6
 six==1.16.0
+sklearn==0.0
 smart-open==5.2.1
 soupsieve==2.3.2
 spacy==3.3.0
@@ -137,6 +144,7 @@ spacy-legacy==3.0.9
 spacy-loggers==1.0.2
 srsly==2.4.3
 stack-data==0.2.0
+statsmodels==0.13.2
 terminado==0.13.1
 testpath==0.5.0
 thinc==8.0.15
