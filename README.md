@@ -8,5 +8,12 @@ __Topic:__ President Obama
 
 __Members:__ Vancesca Dinh, Balazs Fazekas, Silvia Maria Goñi Mendia, Laura Fernandez Lopez, Emma Schweidler, Luis Caminal Diaz
 
+
+## Repository Content
+
 The repository contains our requirements file, jupyter notebooks and data used for the analysis.
 
+
+## Python Version and Package Requirements
+
+Python version 3.9.5 was used to create the notebooks. A list of the required packages and their respective version numbers can be found in the `requirements.txt` file.
