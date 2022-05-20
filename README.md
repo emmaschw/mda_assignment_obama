@@ -1,6 +1,6 @@
 # MDA Project
 
-This is the repository for the group project of the Morocco team for the course Modern Data Analytics (B-KUL-G0Z39A) at KU Leuven.
+This is the repository of the Morocco team for the group project of the course Modern Data Analytics (B-KUL-G0Z39A) at KU Leuven.
 
 __Team:__ Morocco
 
